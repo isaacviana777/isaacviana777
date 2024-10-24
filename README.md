@@ -5,7 +5,7 @@
 
 <h1>Entre em contato(Get in touch)</h1>
 <div>
-  <a href="https://www.linkedin.com/in/felipe-oliveira-506017330/(https://www.linkedin.com/in/isaacdesigneer/)(https://www.linkedin.com/in/isaacdesigneer/)(https://www.linkedin.com/in/isaacdesigneer/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/isaacdesigneer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
 <h1>Tenologias que uso ou estou estudando(Technologies I use or am currently studying)</h1>

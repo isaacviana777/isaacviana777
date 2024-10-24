@@ -1,11 +1,11 @@
 <h1>Sobre mim(About me)</h1>
   
-- 👋 Olá, me chamo Felipe! Sou um estudante de TI e curso ADS atualmente. Gosto bastante desta área e sempre estou entrando e fazendo projetos para me preparar para o mercado de trabalho. Neste perfil irei postar minha evolução e projetos pessoais!🫡
-- 👋 Hello, my name is Felipe! I am an IT student currently studying Systems Analysis and Development. I really enjoy this field and am always working on projects to prepare myself for the job market. On this profile, I will be posting about my progress and personal projects!🫡
+- 🚀 Olá, me chamo Isaac! Sou um estudante de TI e curso ADS atualmente. Gosto bastante desta área e sempre estou entrando e fazendo projetos para me preparar para o mercado de trabalho. Neste perfil irei postar minha evolução e projetos pessoais!🫡
+- 🚀 Hello, my name is Isaac! I am an IT student currently studying Systems Analysis and Development. I really enjoy this field and am always working on projects to prepare myself for the job market. On this profile, I will be posting about my progress and personal projects!🫡
 
 <h1>Entre em contato(Get in touch)</h1>
 <div>
-  <a href="https://www.linkedin.com/in/felipe-oliveira-506017330/(https://www.linkedin.com/in/isaacdesigneer/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/felipe-oliveira-506017330/(https://www.linkedin.com/in/isaacdesigneer/)(https://www.linkedin.com/in/isaacdesigneer/)(https://www.linkedin.com/in/isaacdesigneer/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
 <h1>Tenologias que uso ou estou estudando(Technologies I use or am currently studying)</h1>
